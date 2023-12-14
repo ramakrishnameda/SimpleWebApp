@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:60px;margin-right:10px;color:black">Flipkart  website</span>
+            <span style="font-size:60px;margin-right:10px;color:white">Flipkart  website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> FlipKart Big billion sale live </h1>   
+         <h1> FlipKart Big billion sale live upto 60% off </h1>   
 	 
 
     </section>    
